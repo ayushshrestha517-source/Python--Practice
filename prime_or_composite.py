@@ -18,5 +18,5 @@ while True:
         print(f"The number {n} is neither prime nor composite")
     ch = input("Do you want to check another number?(yes/no): ")
     if ch.strip().lower() == "no":
-
         break
+
