@@ -21,3 +21,16 @@ Written while learning Python basics.
 Includes input validation for negative numbers and non-integer input.
 
 Allows the user to calculate factorials of multiple numbers interactively.
+
+03. Asterisk Pyramid Pattern
+
+Description:
+This program displays a pyramid pattern of asterisks (*) based on the number of rows entered by the user.
+
+Notes:
+
+Written while learning Python basics.
+
+Uses loops and string multiplication to create the pattern.
+
+Aligns the pyramid in the center using space
