@@ -34,3 +34,18 @@ Written while learning Python basics.
 Uses loops and string multiplication to create the pattern.
 
 Aligns the pyramid in the center using space
+
+04. Hollow Square Pattern
+
+Description:
+This program prints a hollow square pattern of stars (*) for a given size n. The first and last rows are filled with stars, and the first and last columns of the middle rows have stars while the rest are spaces.
+
+Notes:
+
+Works for any integer n ≥ 1.
+
+Uses nested loops to determine whether to print a star or a space.
+
+Written while learning Python basics.
+
+Example for n = 3:
