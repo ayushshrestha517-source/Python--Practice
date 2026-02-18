@@ -42,10 +42,10 @@ This program prints a hollow square pattern of asterisks (*) for a given size n.
 
 Notes:
 
+Written while learning Python basics.
+
 Works for any integer n ≥ 1.
 
 Uses nested loops to determine whether to print a star or a space.
-
-Written while learning Python basics.
 
 Example for n = 3:
