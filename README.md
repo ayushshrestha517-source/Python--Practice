@@ -47,5 +47,3 @@ Written while learning Python basics.
 Works for any integer n ≥ 1.
 
 Uses nested loops to determine whether to print a star or a space.
-
-Example for n = 3:
