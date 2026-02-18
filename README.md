@@ -38,7 +38,7 @@ Aligns the pyramid in the center using space
 04. Hollow Square Pattern
 
 Description:
-This program prints a hollow square pattern of stars (*) for a given size n. The first and last rows are filled with stars, and the first and last columns of the middle rows have stars while the rest are spaces.
+This program prints a hollow square pattern of asterisks (*) for a given size n. The first and last rows are filled with stars, and the first and last columns of the middle rows have stars while the rest are spaces.
 
 Notes:
 
