@@ -47,3 +47,18 @@ Written while learning Python basics.
 Works for any integer n ≥ 1.
 
 Uses nested loops to determine whether to print a star or a space.
+
+05. Multiplication Table
+
+Description:
+This program prints the multiplication table of a number entered by the user. The table displays values from 1 to 10.
+
+Notes:
+
+Written while learning Python basics.
+
+Uses a function to print the table.
+
+Handles invalid input (non-integer and negative numbers).
+
+Allows the user to repeatedly print tables until they choose to exit.
