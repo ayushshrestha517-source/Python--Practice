@@ -62,3 +62,20 @@ Uses a function to print the table.
 Handles invalid input (non-integer and negative numbers).
 
 Allows the user to repeatedly print tables until they choose to exit.
+
+06. Rock-Paper-Scissors Game
+
+Description:
+This program allows the user to play the classic Rock-Paper-Scissors game against the computer. The user can choose between rock, paper, or scissors, and the computer randomly selects its choice. The program then determines the winner based on the standard rules of the game.
+
+Notes:
+
+Written while learning Python basics.
+
+Uses dictionaries to map between user input and numeric values for game logic.
+
+Validates user input to handle typos or incorrect entries.
+
+Includes logic to determine wins, losses, and draws using simple arithmetic.
+
+Allows the user to play multiple rounds until they choose to exit.
