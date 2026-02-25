@@ -79,3 +79,20 @@ Validates user input to handle typos or incorrect entries.
 Includes logic to determine wins, losses, and draws using simple arithmetic.
 
 Allows the user to play multiple rounds until they choose to exit.
+
+07. Multiplication Tables Generator
+
+Description:
+This program generates multiplication tables from 2 to 20. Each table is stored in a separate text file inside a folder named Table. The program ensures the folder exists before writing the files, making it easy for anyone to run the script without manual folder creation.
+
+Notes:
+
+Written while learning Python basics.
+
+Uses os.makedirs() to ensure the output folder exists.
+
+Writes each multiplication table (1–10) into separate text files for clarity.
+
+Adds proper line breaks for readability.
+
+Easy to extend to more tables or larger ranges if needed.
